@@ -50,9 +50,8 @@ Feel free to contribute by submitting solutions or improving existing ones. Foll
 
 ## 📞 Contact
 For any queries or suggestions, feel free to reach out:
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your_handle](https://twitter.com/your_handle)
+- 📧 Email: sahniprem568@gmail.com
+
 
 ## ⭐ Support
 If you find this repo helpful, don't forget to **star ⭐ the repository!**
