@@ -33,7 +33,7 @@ Each folder contains solutions categorized based on problem type.
 ## 📖 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Leetcode-Solutions.git
+   git clone https://github.com/premsahni23/LeetCode-Solutions.git
    ```
 2. Navigate to the problem category:
    ```sh
